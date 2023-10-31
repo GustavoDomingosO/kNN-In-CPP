@@ -1,0 +1,3 @@
+C:/Users/Gustavo Domingos/CLionProjects/kNN/cmake-build-debug/CMakeFiles/kNN.dir
+C:/Users/Gustavo Domingos/CLionProjects/kNN/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gustavo Domingos/CLionProjects/kNN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
